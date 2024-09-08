@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
             val beerColor = findViewById<Spinner>(R.id.beer_color)
             val color = beerColor.selectedItem
             val brands = findViewById<TextView>(R.id.brands)
-            brands.text = "Beer color is $color"
+            brands.text = "Цвет пива - $color"
         }
         }
 }

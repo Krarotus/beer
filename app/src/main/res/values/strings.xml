@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">beer</string>
-    <string name="find_beer">Find Beer</string>
-    <string name="brands">No beer selected</string>
+    <string name="find_beer">Найти пиво</string>
+    <string name="brands">Пиво не выбрано</string>
     <string-array name="beer_colors">
         <item>Светлое</item>
         <item>Эль</item>
